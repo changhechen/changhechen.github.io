@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming Ph.D. student at Northwestern University
+subtitle: CS Ph.D. student at Northwestern University
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an incoming Ph.D. student at [Northwestern University](https://www.northwestern.edu/), co-advised by Prof. [Manling Li](https://limanling.github.io/) and Prof. [Ruohan Zhang](https://ruohanzhang.com/). Before Northwestern, I received my M.S. in Robotics from the [University of Michigan](https://robotics.umich.edu/), where I was advised by Prof. [Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) and Prof. [Xiaonan (Sean) Huang](https://soft.robotics.umich.edu/). Prior to Michigan, I received my BASc in Electrical Engineering from the [University of Toronto](https://www.ece.utoronto.ca/), where I worked with Prof. [Chan Carusone](https://www.ece.utoronto.ca/people/chan-carusone-a/) on reinforcement learning for analog circuit design. In summer 2025, I collaborated on robotics research and real-world robotic systems with Prof. [Heng Yang's group](https://computationalrobotics.seas.harvard.edu/) at [Harvard University](https://seas.harvard.edu/robotics).
+I am a CS Ph.D. student at [Northwestern University](https://www.northwestern.edu/), co-advised by Prof. [Manling Li](https://limanling.github.io/) and Prof. [Ruohan Zhang](https://ruohanzhang.com/). Before Northwestern, I received my M.S. in Robotics from the [University of Michigan](https://robotics.umich.edu/), where I was advised by Prof. [Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) and Prof. [Xiaonan (Sean) Huang](https://soft.robotics.umich.edu/). Prior to Michigan, I received my BASc in Electrical Engineering from the [University of Toronto](https://www.ece.utoronto.ca/), where I worked with Prof. [Chan Carusone](https://www.ece.utoronto.ca/people/chan-carusone-a/) on reinforcement learning for analog circuit design. In summer 2025, I collaborated on robotics research and real-world robotic systems with Prof. [Heng Yang's group](https://computationalrobotics.seas.harvard.edu/) at [Harvard University](https://seas.harvard.edu/robotics).
 
 My current research focuses on embodied AI, data-efficient robot learning, and learning from humans, with an emphasis on multimodal vision-language models and instruction-based semantic segmentation for robotic understanding and execution of complex tasks.
 
