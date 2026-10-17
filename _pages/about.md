@@ -27,8 +27,6 @@ I am an incoming Ph.D. student at [Northwestern University](https://www.northwes
 
 My current research focuses on embodied AI, data-efficient robot learning, and learning from humans, with an emphasis on multimodal vision-language models and instruction-based semantic segmentation for robotic understanding and execution of complex tasks.
 
-I am grateful to [Yike Pan](https://scholar.google.com/citations?user=RegylK0AAAAJ&hl=zh-CN), my loved one and an excellent researcher in robotics and computer vision, for bringing so much happiness, encouragement, and joy to my journey.
-
 <div class="profile-contact-links">
   <a href="https://scholar.google.com/citations?user=PfhZFzYAAAAJ&hl=en" aria-label="Google Scholar">
     <i class="ai ai-google-scholar"></i>
